@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework_6_1</string>
+    <string name="field_is_empty">Field must not be empty</string>
+    <string name="enter_something">Enter something</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+</resources>
